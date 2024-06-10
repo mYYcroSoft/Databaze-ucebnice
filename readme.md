@@ -3,4 +3,4 @@
 
 ##### Didaktický test z předmetu databáze
 
-[Přehled zde](Základy\readme.md)
+[Přehled zde](./Základy/readme.md)

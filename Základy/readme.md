@@ -1,7 +1,6 @@
 ### 1. Základní terminologie
-
-- **Data**: Surové hodnoty, které nemají žádný význam, dokud nejsou zpracovány.
-- **Informace**: Data, která byla zpracována a mají význam.
+- **Systém řízení báze dat**: Data jsou řízena balíkem programů (SŘDB)
+- **Databázoví systém**: Tvoří databáze a systém řízení báze
 - **Databáze**: Organizovaná kolekce dat, obvykle uložená a přístupná elektronicky.
 - **DBMS (Database Management System)**: Software pro správu a manipulaci s databázemi.
 - **Tabulka**: Základní struktura v databázi, skládající se z řádků a sloupců.
